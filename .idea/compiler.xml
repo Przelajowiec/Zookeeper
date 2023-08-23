@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper_(Java).util.main" target="17" />
+      <module name="Zookeeper_(Java).Zookeeper__Java_-task.main" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
